@@ -8,6 +8,6 @@ class Beast
 {
     public static function whoami()
     {
-        return "I’m Beast from Dundee";
+        return "I’m Beast from  Dundee";
     }
 }
